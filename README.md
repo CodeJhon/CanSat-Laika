@@ -17,7 +17,7 @@ CanSat Laika was a project developed in 2022 by the students of the Electronic I
 
 # Product results and tests
 
-![Untitled](CanSat%20Laika%206cb80310e28341019a367c275f05b8e9/Untitled.png)
+https://drive.google.com/file/d/1G4-xrEyMWUeFn4jaDiuWt9eqDYDM8wHd/view
 
 ### Wireless communication testing
 
