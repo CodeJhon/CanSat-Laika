@@ -1,7 +1,5 @@
 # CanSat-Laika
-Results of the Cansat Laika project. This repository has been made by the team's leader Jhon Steven Pinto
 
-# Description
 CanSat Laika was a project developed in 2022 by the students of the Electronic Instrumentation course from Universidad Industrial de Santander. 
 
 # Function
