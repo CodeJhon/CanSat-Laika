@@ -2,7 +2,7 @@
 
 CanSat Laika was a project developed in 2022 by the students of the Electronic Instrumentation course from Universidad Industrial de Santander. 
 
-# Function
+# Summary
 
 <aside>
 💡 CanSat Laika has the ability to throught sensors, data transmitted by air and automatic logic, read and transmit the pressure, temperature, gps, camera and altitude data. Also it automatically releases itself and its parachute after reaching a certain altitude level so when landing it can be easily recovered without any hardware losses.
